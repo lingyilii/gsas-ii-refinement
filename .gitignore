@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# 任务输出不应放入技能仓库；发布前仍须检查白名单。
+runs/
+run/
+outputs/
+*.gpx
+*.lst
+*.tif
+*.tiff
+*.cif
+*.instprm
+*.imctrl
+*.immask
+*.fxye
+*.xye
+*.metadata

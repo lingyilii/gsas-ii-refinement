@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSAS-II 精修skill"
+  short_description: "依据官方教程完成粉末衍射校准、分阶段精修、质量检查与批量交付"
+  default_prompt: "请使用 $gsas-ii-refinement 处理我提供的粉末衍射数据，先检查输入和校准依据，再按教程分阶段精修并交付可复查项目。"

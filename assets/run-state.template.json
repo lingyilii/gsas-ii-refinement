@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "skill": "gsas-ii-refinement",
+  "mode": null,
+  "status": "needs_input",
+  "created_utc": null,
+  "updated_utc": null,
+  "input_manifest": "input_manifest.json",
+  "environment": {
+    "gsas_version": null,
+    "python_executable": null,
+    "python_version": null,
+    "gsas_source_root": null,
+    "operating_system": null
+  },
+  "scope": {
+    "input_directory": null,
+    "output_directory": null,
+    "experiment_type": null,
+    "require_img_pwdr_phases": true
+  },
+  "calibration_groups": [],
+  "samples": [],
+  "decisions": [],
+  "unresolved_questions": [],
+  "retry_policy": {
+    "max_targeted_retries_per_failure": 2,
+    "description": "工程默认值，可按任务调整；不代表精修循环数。"
+  }
+}
