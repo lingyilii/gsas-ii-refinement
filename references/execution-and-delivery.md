@@ -1,5 +1,9 @@
 # 执行、批量与输出契约
 
+**中文** | [English](en/execution-and-delivery.md)
+
+两种语言共用记录结构，英文报告使用 `report_en.md`，中文使用 `report_zh.md`。续作时读取已有语言的报告；切换语言不重置科学状态。
+
 ## 脚本与 GUI 协同
 
 **教程对应：** [T07](tutorial-map.md) A / Create a Multi-step Script、B / Single-Step Refinement；[D01 官方 API](https://gsas-ii.readthedocs.io/en/latest/GSASIIscriptable.html)。

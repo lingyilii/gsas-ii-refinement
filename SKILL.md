@@ -1,9 +1,13 @@
 ---
 name: gsas-ii-refinement
-description: 用 GSAS-II 处理粉末衍射数据，完成二维图像校准与积分、晶体结构导入、分阶段 Rietveld 精修、质量检查及可追溯交付。支持中文逐步教学、执行、已有项目续作和批量处理；每阶段关联官方教程。主要用于恒波长 X 射线数据，其他实验类型须先匹配专用教程。
+description: GSAS-II powder diffraction and Rietveld refinement in Chinese or English, with tutorial-backed calibration, integration, validation and batch processing. 用 GSAS-II 进行粉末衍射校准、积分、分阶段精修及可追溯交付，支持教学、执行、续作和批量；主要用于恒波长 X 射线，其他实验类型须匹配专用教程。
 ---
 
 # GSAS-II 精修skill
+
+**中文** | [English](SKILL.en.md)
+
+**Language routing:** For English requests, read [SKILL.en.md](SKILL.en.md) and its English references instead of the Chinese workflow below. Follow the user's selected language; both versions describe the same skill and scientific rules. Do not install them as separate skills.
 
 以用户指定的数据和结构模型为输入，完成有依据、可复查的精修。默认中文沟通。本技能提供方法和判据，不携带任何用户的实验数据、标准卡片或历史精修参数，也不保证所有数据都能得到唯一结构解。
 

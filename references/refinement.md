@@ -1,5 +1,7 @@
 # 分阶段精修与判断方法
 
+**中文** | [English](en/refinement.md)
+
 先读 [输入与校准](input-and-calibration.md)，教程编号见 [tutorial-map.md](tutorial-map.md)。以下是基于教程组织的决策流程；具体放开哪些参数由数据、几何和当前残差决定。
 
 ## S03：仪器峰形与可选单峰诊断
